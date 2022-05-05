@@ -1,0 +1,82 @@
+2022/04/26	23:16:27	c2beb5a2-7dbe-48b9-b0e2-0eaf754462bf	 Error: ER_NO_SUCH_TABLE: Table 'loginsystem.match' doesn't exist
+2022/04/26	23:16:27	8f0bf502-c04d-49fb-9822-bb0ca9ec4033	 Error: ER_NO_SUCH_TABLE: Table 'loginsystem.match' doesn't exist
+2022/04/26	23:25:29	595312f5-0082-45df-92ce-b32f63b3f93d	 Error: ER_BAD_NULL_ERROR: Column 'TOURNEYID' cannot be null
+2022/04/26	23:25:29	6fb7c9d8-e095-4075-85a4-3dacfe11fe10	 Error: ER_BAD_NULL_ERROR: Column 'TOURNEYID' cannot be null
+2022/04/26	23:30:28	ea9f8aae-cfa7-47cf-8613-09caaab5957c	 Error: ER_NO_SUCH_TABLE: Table 'loginsystem.match' doesn't exist
+2022/04/26	23:30:28	fd61ecfc-2d1b-4e07-b6ae-7db2d647a6d3	 Error: ER_NO_SUCH_TABLE: Table 'loginsystem.match' doesn't exist
+2022/04/26	23:39:11	a4aeffb3-931d-48cb-938d-15898eb70c94	 Error: ER_NO_SUCH_TABLE: Table 'loginsystem.match' doesn't exist
+2022/04/26	23:39:11	bcc088ea-82cb-4e4c-8bf3-cd3d98d62e2e	 Error: ER_NO_SUCH_TABLE: Table 'loginsystem.match' doesn't exist
+2022/04/26	23:39:11	c93ee129-7338-4079-baa0-17fc225b460f	 Error: ER_BAD_NULL_ERROR: Column 'MATCHID' cannot be null
+2022/04/26	23:39:11	3135a935-9311-4277-bcc3-ebfd3b9361c3	 Error: ER_BAD_NULL_ERROR: Column 'MATCHID' cannot be null
+2022/04/26	23:41:24	bc807562-5d23-43b4-9183-89fb4e564f52	 Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'MATCH WHERE (TOURNEYID = '30008')' at line 1
+2022/04/26	23:41:24	1bdca521-da47-42a1-bda2-729380d970f9	 Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'MATCH (MATCHTIME, TOURNEYID) VALUES ('23:41:24', 30008)' at line 1
+2022/04/26	23:41:24	8d93cbbf-a3a8-4d3f-ab60-a61139455daf	 Error: ER_BAD_NULL_ERROR: Column 'MATCHID' cannot be null
+2022/04/26	23:41:24	c032a814-b4d0-4c1c-85fb-08e6485af32b	 Error: ER_BAD_NULL_ERROR: Column 'MATCHID' cannot be null
+2022/04/26	23:42:38	c537c84c-46e7-4eae-8de3-c0eb1f82a18d	 Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'MATCH (MATCHTIME, TOURNEYID) VALUES ('23:42:38', 30008)' at line 1
+2022/04/26	23:42:38	b2153c47-08b0-4808-bf7a-5cdb1ea5b101	 Error: ER_BAD_NULL_ERROR: Column 'MATCHID' cannot be null
+2022/04/26	23:42:38	cf44d5cc-805f-4354-a61b-c74b06cdfeb1	 Error: ER_BAD_NULL_ERROR: Column 'MATCHID' cannot be null
+2022/04/26	23:42:40	0c715116-c141-436d-b7bd-2a6d583ce8a1	 Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'MATCH (MATCHTIME, TOURNEYID) VALUES ('23:42:40', 30008)' at line 1
+2022/04/26	23:42:40	a5c4d94f-dd25-4ede-8059-07a4c8b7dc7d	 Error: ER_BAD_NULL_ERROR: Column 'MATCHID' cannot be null
+2022/04/26	23:42:40	98546d39-c0e3-49df-8c49-3874d2f6a2a1	 Error: ER_BAD_NULL_ERROR: Column 'MATCHID' cannot be null
+2022/04/26	23:44:39	06a9aabc-a9ba-4537-b786-4f2a8cd9b0d0	 Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'MATCH (MATCHTIME, TOURNEYID) VALUES ('23:44:39', NaN)' at line 1
+2022/04/26	23:44:39	6b852a02-8f87-43af-8e75-52068c588ba5	 Error: ER_BAD_NULL_ERROR: Column 'MATCHID' cannot be null
+2022/04/26	23:44:39	2315451c-a187-4b4e-879a-1bb4f2115374	 Error: ER_BAD_NULL_ERROR: Column 'MATCHID' cannot be null
+2022/04/26	23:44:56	3725eb00-4772-4174-887d-38ff1338a635	 Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'MATCH (MATCHTIME, TOURNEYID) VALUES ('23:44:56', NaN)' at line 1
+2022/04/26	23:44:56	3373da93-c0cd-493a-b70e-723577ed7e66	 Error: ER_BAD_NULL_ERROR: Column 'MATCHID' cannot be null
+2022/04/26	23:44:56	e13778f9-2b3a-4191-b155-fe76ce0b37fd	 Error: ER_BAD_NULL_ERROR: Column 'MATCHID' cannot be null
+2022/04/26	23:46:33	83bd135b-277f-4a87-9950-c2d2713a3df1	 Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'MATCH (MATCHTIME, TOURNEYID) VALUES ('23:46:33', 30008)' at line 1
+2022/04/26	23:46:33	6d438414-abb7-4c11-a3d8-0b5afeff7996	 Error: ER_BAD_NULL_ERROR: Column 'MATCHID' cannot be null
+2022/04/26	23:46:33	76a9953e-a41d-4208-a5d6-9b1770be1276	 Error: ER_BAD_NULL_ERROR: Column 'MATCHID' cannot be null
+2022/04/26	23:48:29	d68b6d6b-94f0-4d98-a9e4-4c7a1b3d87ca	 Error: ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`smtb`.`bridge_match`, CONSTRAINT `bridge_match_ibfk_1` FOREIGN KEY (`USERID`) REFERENCES `user` (`USERID`))
+2022/04/26	23:48:29	7ac3ee81-fa26-4508-833a-831c0a871062	 Error: ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`smtb`.`bridge_match`, CONSTRAINT `bridge_match_ibfk_1` FOREIGN KEY (`USERID`) REFERENCES `user` (`USERID`))
+2022/04/26	23:52:18	da295823-df72-4d12-b5fa-4e171004b4f6	 Error: ER_DUP_ENTRY: Duplicate entry '0' for key 'PRIMARY'
+2022/04/26	23:52:18	add470c6-3797-4810-87f1-cf7a1c43692f	 Error: ER_DUP_ENTRY: Duplicate entry '0' for key 'PRIMARY'
+2022/04/26	23:52:18	aab6d1c7-bd5f-4cb7-9684-685105b1d36a	 Error: ER_BAD_NULL_ERROR: Column 'MATCHID' cannot be null
+2022/04/26	23:52:18	048018f6-c737-4722-9b68-f0020361d9b9	 Error: ER_BAD_NULL_ERROR: Column 'MATCHID' cannot be null
+2022/04/26	23:52:18	064a375a-c8cc-498e-a211-ece386279ee6	 Error: ER_BAD_NULL_ERROR: Column 'MATCHID' cannot be null
+2022/04/26	23:52:18	002e1a3d-4a1f-40ae-90a0-c3222ae496f5	 Error: ER_BAD_NULL_ERROR: Column 'MATCHID' cannot be null
+2022/04/26	23:56:15	25712d2b-ca1f-4eb1-98ed-fd8ff308c2ff	 Error: ER_DUP_ENTRY: Duplicate entry '0' for key 'PRIMARY'
+2022/04/26	23:56:15	a93742a2-502c-46fd-a6fd-4700f5b6746b	 Error: ER_DUP_ENTRY: Duplicate entry '0' for key 'PRIMARY'
+2022/04/26	23:56:15	d389312f-32b1-41f9-9298-7555acb9f456	 Error: ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`smtb`.`bridge_match`, CONSTRAINT `bridge_match_ibfk_2` FOREIGN KEY (`MATCHID`) REFERENCES `match` (`MATCHID`))
+2022/04/26	23:56:15	5dbdcae7-c7c9-4e3f-87c3-78903e2d3fc8	 Error: ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`smtb`.`bridge_match`, CONSTRAINT `bridge_match_ibfk_2` FOREIGN KEY (`MATCHID`) REFERENCES `match` (`MATCHID`))
+2022/04/26	23:56:15	4b5ef4fe-0a73-4e6e-9067-dd229aaa01bb	 Error: ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`smtb`.`bridge_match`, CONSTRAINT `bridge_match_ibfk_2` FOREIGN KEY (`MATCHID`) REFERENCES `match` (`MATCHID`))
+2022/04/26	23:56:15	c71bcdd0-c0b8-40a1-88a0-6dd21a0f7535	 Error: ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`smtb`.`bridge_match`, CONSTRAINT `bridge_match_ibfk_2` FOREIGN KEY (`MATCHID`) REFERENCES `match` (`MATCHID`))
+2022/04/26	23:56:17	1fec3a85-fb8e-454e-be8a-aaefc5e0a62c	 Error: ER_DUP_ENTRY: Duplicate entry '0' for key 'PRIMARY'
+2022/04/26	23:56:17	583d7bcd-4d22-413c-9562-64c02a0466c6	 Error: ER_DUP_ENTRY: Duplicate entry '0' for key 'PRIMARY'
+2022/04/26	23:56:17	c018e8fe-e2f5-491d-b71f-fc72faa3a959	 Error: ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`smtb`.`bridge_match`, CONSTRAINT `bridge_match_ibfk_2` FOREIGN KEY (`MATCHID`) REFERENCES `match` (`MATCHID`))
+2022/04/26	23:56:17	35f358e2-086e-4830-be95-a53909110838	 Error: ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`smtb`.`bridge_match`, CONSTRAINT `bridge_match_ibfk_2` FOREIGN KEY (`MATCHID`) REFERENCES `match` (`MATCHID`))
+2022/04/26	23:56:17	6029669d-bea7-494c-8fda-608cdce7a42b	 Error: ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`smtb`.`bridge_match`, CONSTRAINT `bridge_match_ibfk_2` FOREIGN KEY (`MATCHID`) REFERENCES `match` (`MATCHID`))
+2022/04/26	23:56:17	e038eb54-6dd8-45f1-a856-d41ea70ebed7	 Error: ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`smtb`.`bridge_match`, CONSTRAINT `bridge_match_ibfk_2` FOREIGN KEY (`MATCHID`) REFERENCES `match` (`MATCHID`))
+2022/04/27	00:05:27	a01c876e-f371-4920-b72c-c2ac38240877	 Error: ER_NO_SUCH_TABLE: Table 'smtb.match' doesn't exist
+2022/04/27	00:05:27	aaff63e3-2b38-4199-9a63-eb16a2ac508f	 Error: ER_NO_SUCH_TABLE: Table 'smtb.match' doesn't exist
+2022/04/27	00:05:27	90a10df4-74db-4c83-8630-1e14caf4c2d6	 Error: ER_NO_SUCH_TABLE: Table 'smtb.match' doesn't exist
+2022/04/27	00:05:27	1f1dcd69-c96a-44a8-bf86-511184131d5b	 Error: ER_BAD_NULL_ERROR: Column 'MATCHID' cannot be null
+2022/04/27	00:05:28	1f932c5a-dc79-4fab-8b5c-619ec12096b5	 Error: ER_BAD_NULL_ERROR: Column 'MATCHID' cannot be null
+2022/04/27	00:05:28	3bdab89a-cbac-46d1-83f5-32a6bf120f31	 Error: ER_BAD_NULL_ERROR: Column 'MATCHID' cannot be null
+2022/04/27	00:05:27	4602d2cf-3c40-4cb7-97f9-518fec285c60	 Error: ER_BAD_NULL_ERROR: Column 'MATCHID' cannot be null
+2022/04/27	00:05:31	237c241c-c9e5-48ec-b2f5-69e86ad0b4d2	 Error: ER_NO_SUCH_TABLE: Table 'smtb.match' doesn't exist
+2022/04/27	00:05:31	2eb425f5-1617-45b7-8e2d-a92454c601d0	 Error: ER_NO_SUCH_TABLE: Table 'smtb.match' doesn't exist
+2022/04/27	00:05:31	c6332392-19e2-4805-b4ad-0e0c3c8002ac	 Error: ER_NO_SUCH_TABLE: Table 'smtb.match' doesn't exist
+2022/04/27	00:05:31	e55dcd00-84ce-4262-ba67-2b1cae8f3d97	 Error: ER_BAD_NULL_ERROR: Column 'MATCHID' cannot be null
+2022/04/27	00:05:31	7b40d1fd-94a3-4c13-96f2-4e73a359595f	 Error: ER_BAD_NULL_ERROR: Column 'MATCHID' cannot be null
+2022/04/27	00:05:31	6f5481c4-e40c-4d35-a17e-12eb702bbd00	 Error: ER_BAD_NULL_ERROR: Column 'MATCHID' cannot be null
+2022/04/27	00:05:31	a5e3e314-4dbb-4707-83ae-e90e7080449a	 Error: ER_BAD_NULL_ERROR: Column 'MATCHID' cannot be null
+2022/04/27	00:07:20	29b38acb-ea31-4e02-82a7-47db987d45cd	 Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '(TOURNEYID = '30000')' at line 1
+2022/04/27	00:07:20	5ee836cc-f4eb-4d0c-8aec-294d5095d5ea	 Error: ER_DUP_ENTRY: Duplicate entry '0' for key 'PRIMARY'
+2022/04/27	00:07:20	5631ab95-9111-48d8-9449-899d380a7da0	 Error: ER_BAD_NULL_ERROR: Column 'MATCHID' cannot be null
+2022/04/27	00:07:20	f6aba279-250d-4d70-b3c2-0a2da284078f	 Error: ER_BAD_NULL_ERROR: Column 'MATCHID' cannot be null
+2022/04/27	00:07:20	e6368b4e-6bb3-4ad5-ab2f-bb2d91c43337	 Error: ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`smtb`.`bridge_match`, CONSTRAINT `bridge_match_ibfk_1` FOREIGN KEY (`USERID`) REFERENCES `user` (`USERID`))
+2022/04/27	00:07:20	04dd6050-977a-43af-b8da-a096a94c2e95	 Error: ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`smtb`.`bridge_match`, CONSTRAINT `bridge_match_ibfk_1` FOREIGN KEY (`USERID`) REFERENCES `user` (`USERID`))
+2022/04/27	00:38:18	43a97c5c-4653-4b7b-961e-bb6ac5cea661	 Error: ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`smtb`.`bridge_match`, CONSTRAINT `bridge_match_ibfk_1` FOREIGN KEY (`USERID`) REFERENCES `user` (`USERID`))
+2022/04/27	00:38:18	7983d42e-bfb2-4d2f-991f-5e5ffb787834	 Error: ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`smtb`.`bridge_match`, CONSTRAINT `bridge_match_ibfk_1` FOREIGN KEY (`USERID`) REFERENCES `user` (`USERID`))
+2022/04/27	00:38:18	19b36259-4d1f-473e-9ec4-9cdaec1b85a6	 Error: ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`smtb`.`bridge_match`, CONSTRAINT `bridge_match_ibfk_1` FOREIGN KEY (`USERID`) REFERENCES `user` (`USERID`))
+2022/04/27	00:38:18	130e631a-6362-4dab-88de-9ccaa879f5cc	 Error: ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`smtb`.`bridge_match`, CONSTRAINT `bridge_match_ibfk_1` FOREIGN KEY (`USERID`) REFERENCES `user` (`USERID`))
+2022/04/27	00:46:13	a61e1f15-a04b-4e1f-87bd-f7aa2e545ef9	 Error: ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`smtb`.`bridge_match`, CONSTRAINT `bridge_match_ibfk_1` FOREIGN KEY (`USERID`) REFERENCES `user` (`USERID`))
+2022/04/27	00:46:13	cea28d44-709d-4f93-acfc-b2fa6722dc01	 Error: ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`smtb`.`bridge_match`, CONSTRAINT `bridge_match_ibfk_1` FOREIGN KEY (`USERID`) REFERENCES `user` (`USERID`))
+2022/04/27	00:55:39	a26cead6-ac8c-4b71-9132-f83176c0c912	 Error: ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`smtb`.`bridge_match`, CONSTRAINT `bridge_match_ibfk_1` FOREIGN KEY (`USERID`) REFERENCES `user` (`USERID`))
+2022/04/27	00:55:39	d2fcdea5-3293-412e-bec2-31f949c110c6	 Error: ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`smtb`.`bridge_match`, CONSTRAINT `bridge_match_ibfk_1` FOREIGN KEY (`USERID`) REFERENCES `user` (`USERID`))
+2022/04/27	13:11:42	3c12d51d-6167-4a82-a778-c4ddd6524145	 Error: ER_DUP_ENTRY: Duplicate entry '30007-20016' for key 'PRIMARY'
+2022/04/27	13:11:42	2ff177c9-b333-41cc-9f5c-97fcb516fdba	 Error: ER_DUP_ENTRY: Duplicate entry '30007-20017' for key 'PRIMARY'
+2022/04/27	13:11:48	422b21db-972e-44f4-b7cc-e495845652c0	 Error: ER_DUP_ENTRY: Duplicate entry '30007-20011' for key 'PRIMARY'
+2022/04/27	13:11:48	23c6fe1f-cb2b-4388-ab82-1494055e1e43	 Error: ER_DUP_ENTRY: Duplicate entry '30007-20012' for key 'PRIMARY'
+2022/04/27	13:19:09	c6777b50-031b-4095-a7c7-0d6dff8164f8	 Error: ER_BAD_FIELD_ERROR: Unknown column 'WINNERID' in 'field list'

@@ -1,0 +1,126 @@
+2022/04/26	23:39:11	bb711fac-8db0-4490-8b25-de1eac074a46	inserting in bridge match with matchID: undefined, and userID: 
+2022/04/26	23:39:11	350b14fe-b3d5-47b6-88d9-0829013d7a22	inserting in bridge match with matchID: undefined, and userID: 
+2022/04/26	23:41:24	af17635c-0bf9-4511-85db-a77c4adfcf57	inserting in bridge match with matchID: undefined, and userID: 
+2022/04/26	23:41:24	ba07c09d-515c-48ae-900c-345340d44c1b	inserting in bridge match with matchID: undefined, and userID: 
+2022/04/26	23:42:38	fd23cb80-3b30-40eb-8655-8a997a9d3740	inserting in bridge match with matchID: undefined, and userID: 
+2022/04/26	23:42:38	2dc043f2-f12b-49ce-b5b4-3d1d84bb3a12	inserting in bridge match with matchID: undefined, and userID: 
+2022/04/26	23:42:40	261eaf17-4544-4ed8-b462-7fa87110a518	inserting in bridge match with matchID: undefined, and userID: 
+2022/04/26	23:42:40	90728e43-6dde-4ade-a030-925c68c63db4	inserting in bridge match with matchID: undefined, and userID: 
+2022/04/26	23:44:39	c4ee21ff-5337-48b1-942d-b0d70eca8eef	inserting in bridge match with matchID: undefined, and userID: 
+2022/04/26	23:44:39	18ab7a2f-cc35-49c0-9205-dfc6bce0a2ba	inserting in bridge match with matchID: undefined, and userID: 
+2022/04/26	23:44:56	9b01360c-f46e-4c19-aa52-eaa5544f0679	inserting in bridge match with matchID: undefined, and userID: 
+2022/04/26	23:44:56	92d1f8cc-fee4-49ef-9a8f-c88a396f23ad	inserting in bridge match with matchID: undefined, and userID: 
+2022/04/26	23:46:33	20262bb4-46be-43f8-8352-faa1cdb2b6d9	inserting in bridge match with matchID: undefined, and userID: 
+2022/04/26	23:46:33	15eb7b07-662c-43d0-b92a-5916e4583051	inserting in bridge match with matchID: undefined, and userID: 
+2022/04/26	23:48:29	dc6031fb-ed8b-41a2-b36d-d6dbc5cac3ba	inserting in bridge match with matchID: 0, and userID: 
+2022/04/26	23:48:29	5694792a-59c3-4e14-a4db-3345725ca582	inserting in bridge match with matchID: 0, and userID: 
+2022/04/26	23:52:18	51db296a-f5f6-4af6-81c9-1413fd67574a	inserting in bridge match with matchID: undefined, and userID: 
+2022/04/26	23:52:18	a8a58631-96d3-4148-b860-3c6594488c96	inserting in bridge match with matchID: undefined, and userID: 
+2022/04/26	23:52:18	ecc95beb-65df-411c-9cb1-bc73ca474f80	inserting in bridge match with matchID: undefined, and userID: 
+2022/04/26	23:52:18	5f096cb2-b7c2-43aa-bb73-010c896d0571	inserting in bridge match with matchID: undefined, and userID: 
+2022/04/26	23:56:15	34e9f860-6823-4ee4-a220-ede6cdf87727	inserting in bridge match with matchID: undefined, and userID: 
+2022/04/26	23:56:15	3ad7b7a2-8fbe-4a40-aba2-a2f4b7ae5915	inserting in bridge match with matchID: undefined, and userID: 
+2022/04/26	23:56:15	7e09cb68-1651-4c31-bc46-6f8c083be752	inserting in bridge match with matchID: undefined, and userID: 
+2022/04/26	23:56:15	26dd631b-8e60-4fac-982b-4cf3eb89faf8	inserting in bridge match with matchID: undefined, and userID: 
+2022/04/26	23:56:17	827fb3d4-fdc3-463f-ae86-e42816e5d079	inserting in bridge match with matchID: undefined, and userID: 
+2022/04/26	23:56:17	f8b58b08-ffa5-4778-b1e5-6fde570c4d93	inserting in bridge match with matchID: undefined, and userID: 
+2022/04/26	23:56:17	d2b9f059-01b9-4ab6-afb6-c46b64f26aac	inserting in bridge match with matchID: undefined, and userID: 
+2022/04/26	23:56:17	12bb7767-4c20-4592-a420-668f78a9c1a7	inserting in bridge match with matchID: undefined, and userID: 
+2022/04/27	00:05:27	df0df6e6-61c2-4774-a0b5-cf9857ea2722	inserting in bridge match with matchID: undefined, and userID: 
+2022/04/27	00:05:27	84c70f8b-5708-4165-b90a-adfe1ead9a9e	inserting in bridge match with matchID: undefined, and userID: 
+2022/04/27	00:05:27	92cf5f74-2133-476b-9a7f-cd92c6efed87	inserting in bridge match with matchID: undefined, and userID: 
+2022/04/27	00:05:27	14ae32c1-29a0-4117-b5da-ce0ca79ec8ea	inserting in bridge match with matchID: undefined, and userID: 
+2022/04/27	00:05:31	741a676c-8af9-4e40-9604-7708adb7b661	inserting in bridge match with matchID: undefined, and userID: 
+2022/04/27	00:05:31	0c3bced5-47c3-4342-86a2-fe9648c46261	inserting in bridge match with matchID: undefined, and userID: 
+2022/04/27	00:05:31	1186e3ca-3c42-4cd6-b766-1da0da98124b	inserting in bridge match with matchID: undefined, and userID: 
+2022/04/27	00:05:31	fa963068-c42a-42ca-b513-56c1e37d0b0e	inserting in bridge match with matchID: undefined, and userID: 
+2022/04/27	00:07:20	e9c34f7c-2c8b-420a-a916-3b624fd49966	inserting in bridge match with matchID: undefined, and userID: 
+2022/04/27	00:07:20	a531af5a-0a6e-45da-8cba-44698b9c2582	inserting in bridge match with matchID: undefined, and userID: 
+2022/04/27	00:07:20	2469f273-7d83-46c7-b6d1-4554691c84cf	inserting in bridge match with matchID: 0, and userID: 
+2022/04/27	00:07:20	d8970258-f3d4-455e-a100-ea2452668606	inserting in bridge match with matchID: 0, and userID: 
+2022/04/27	00:38:18	10ee97e4-3042-4f24-9c5d-308f3a499937	inserting in bridge match with matchID: 500000, and userID: 
+2022/04/27	00:38:18	564f1f7d-e6fc-4d98-a766-5eaff9adf001	inserting in bridge match with matchID: 500001, and userID: 
+2022/04/27	00:38:18	fbb57cc8-01cb-4a9d-a6a1-35a0f67e92a6	inserting in bridge match with matchID: 500000, and userID: 
+2022/04/27	00:38:18	1aa4cc42-748f-4647-bedd-9e85da7167f0	inserting in bridge match with matchID: 500001, and userID: 
+2022/04/27	00:46:13	4abd7ec9-5993-4571-b541-d6fac4b00373	inserting in bridge match with matchID: 500002, and userID: 
+2022/04/27	00:46:13	3fd54636-813c-405a-bee5-f5cef28c27e6	inserting in bridge match with matchID: 500002, and userID: 
+2022/04/27	00:55:39	83e095fa-61c3-4354-8f76-df598757da47	inserting in bridge match with matchID: 500003, and userID: 
+2022/04/27	00:55:39	aaa4f29d-546b-49b7-8ce0-d3814325d801	inserting in bridge match with matchID: 500003, and userID: 
+2022/04/27	12:44:17	10e4f646-094f-44d2-a3c3-6d97fc2c6b3c	inserting in bridge match with matchID: 500004, and userID: 20010
+2022/04/27	12:44:17	fd7f5600-6b79-456b-a233-705c3ede61b7	inserting in bridge match with matchID: 500004, and userID: 20011
+2022/04/27	12:44:17	931c9075-33d7-46f6-9dc8-a9cc4f577873	inserting in bridge match with matchID: 500005, and userID: 20015
+2022/04/27	12:44:17	96bc0129-40ca-409f-8775-c7a292c686af	inserting in bridge match with matchID: 500005, and userID: 20016
+2022/04/27	12:48:59	e54fb589-557e-48a8-a245-827d9ff6245f	inserting in bridge match with matchID: 500006, and userID: 20003
+2022/04/27	12:48:59	d15110a9-b4f0-4a72-9dd7-3c2d3fb03c58	inserting in bridge match with matchID: 500006, and userID: 20004
+2022/04/27	12:48:59	60ed09cb-1d6f-4a53-b999-9e87bad02211	inserting in bridge match with matchID: 500007, and userID: 20010
+2022/04/27	12:48:59	938e7354-99f7-4972-966a-da0c778d3ef8	inserting in bridge match with matchID: 500007, and userID: 20011
+2022/04/27	12:48:59	0832f468-8351-406d-8971-cb8feef18917	inserting in bridge match with matchID: 500008, and userID: 20015
+2022/04/27	12:48:59	fd3b371b-eab6-4d15-8c10-d29693d97962	inserting in bridge match with matchID: 500008, and userID: 20016
+2022/04/27	12:50:36	d9c712d1-cc78-4e03-8aa0-7aba740f8f77	inserting in bridge match with matchID: 500009, and userID: 20003
+2022/04/27	12:50:36	81990aaf-e1ac-4049-ad95-28a91ed9d222	inserting in bridge match with matchID: 500009, and userID: 20004
+2022/04/27	12:50:36	f2dc1713-a58c-4363-be7f-5d242ce1c7c8	inserting in bridge match with matchID: 500010, and userID: 20010
+2022/04/27	12:50:36	b6647024-90ac-456d-af45-959f499a89bc	inserting in bridge match with matchID: 500010, and userID: 20011
+2022/04/27	12:50:36	6527a70c-a353-46b6-a1f0-deef2d786fb4	inserting in bridge match with matchID: 500011, and userID: 20015
+2022/04/27	12:50:36	c75a1afd-798f-4a4c-946b-0b6ae0944cab	inserting in bridge match with matchID: 500011, and userID: 20016
+2022/04/27	12:50:39	e301d4ee-ad7e-4d81-9055-871916fbe9e6	inserting in bridge match with matchID: 500012, and userID: 20003
+2022/04/27	12:50:39	099b52b6-ee28-4fa5-a9ca-6cd0de4d509c	inserting in bridge match with matchID: 500012, and userID: 20004
+2022/04/27	12:50:39	2f35ea62-fcd3-400a-ac9a-37d16f214b33	inserting in bridge match with matchID: 500013, and userID: 20010
+2022/04/27	12:50:39	e11ddec7-6cf7-463b-b093-0709d82926ae	inserting in bridge match with matchID: 500013, and userID: 20011
+2022/04/27	12:50:39	78553971-01a1-4158-9aca-8037bf85731a	inserting in bridge match with matchID: 500014, and userID: 20015
+2022/04/27	12:50:39	00403b8b-614f-43e5-ae62-a736eec0df22	inserting in bridge match with matchID: 500014, and userID: 20016
+2022/04/27	12:53:25	e704eca7-93a4-4e10-91ca-6b1e196bb190	inserting in bridge match with matchID: 500016, and userID: 20010
+2022/04/27	12:53:25	39e05410-e741-4ce2-963d-c79759c8a5bb	inserting in bridge match with matchID: 500016, and userID: 20011
+2022/04/27	12:53:25	1b3ff214-0e38-4e34-b4b1-970b1f6c8d20	inserting in bridge match with matchID: 500015, and userID: 20003
+2022/04/27	12:53:25	6bbde1d7-d99f-4e1e-b031-238bf9960be0	inserting in bridge match with matchID: 500015, and userID: 20004
+2022/04/27	12:53:25	9f9139aa-7956-409b-83bd-01c1c58b1777	inserting in bridge match with matchID: 500017, and userID: 20015
+2022/04/27	12:53:25	8480ac2b-3040-4981-9521-1caeea96cd3d	inserting in bridge match with matchID: 500017, and userID: 20016
+2022/04/27	12:54:12	68ff5cba-255c-495e-8e21-95ba97c623a6	inserting in bridge match with matchID: 500018, and userID: 20000
+2022/04/27	12:54:12	e23619ef-12e9-40c9-b8a4-83dcacd05862	inserting in bridge match with matchID: 500018, and userID: 20001
+2022/04/27	12:54:12	38066855-b085-4b5f-abfa-8dfc0c75e29e	inserting in bridge match with matchID: 500019, and userID: 20002
+2022/04/27	12:54:12	8bd9340f-677c-4821-84e1-823fd08f61b7	inserting in bridge match with matchID: 500019, and userID: 20003
+2022/04/27	13:08:42	ed2e27d1-8e7c-4bc9-9b33-62fccd3ed128	inserting in bridge match with matchID: 500020, and userID: 20011
+2022/04/27	13:08:42	f5805b51-1182-4587-830f-fb525fb2a94c	inserting in bridge match with matchID: 500021, and userID: 20002
+2022/04/27	13:08:42	09fe1829-98ad-4f81-8a98-2827ac097f2f	inserting in bridge match with matchID: 500020, and userID: 20012
+2022/04/27	13:08:42	5d19b159-ccd4-48d2-8580-d7fecd87fa60	inserting in bridge match with matchID: 500021, and userID: 20003
+2022/04/27	13:08:42	bbe07324-a021-40d1-a97a-783177301321	inserting in bridge match with matchID: 500022, and userID: 20000
+2022/04/27	13:08:42	c09734e2-10d1-48c8-b74a-b35172e8b810	inserting in bridge match with matchID: 500022, and userID: 20001
+2022/04/27	13:16:02	61d1b829-4510-4ec7-9f0d-5a9d09d2800c	inserting in bridge match with matchID: 500023, and userID: 20000
+2022/04/27	13:16:02	7729f7bf-c463-4c60-99c8-2cc9881c115d	inserting in bridge match with matchID: 500023, and userID: 20001
+2022/04/27	13:16:02	c1a1a3e7-1cca-4ab0-a798-5078c327cce6	inserting in bridge match with matchID: 500024, and userID: 20002
+2022/04/27	13:16:02	ee7969b6-ae67-4cdb-a233-6b61b7f9e318	inserting in bridge match with matchID: 500024, and userID: 20003
+2022/04/27	13:16:02	d32721aa-131d-4dee-9dd3-cd939bc007ff	inserting in bridge match with matchID: 500025, and userID: 20005
+2022/04/27	13:16:02	44f2e648-078f-4027-814b-223091c04211	inserting in bridge match with matchID: 500025, and userID: 20006
+2022/04/27	13:16:02	fc10893f-6917-49a9-a96d-059f9c5918c1	inserting in bridge match with matchID: 500026, and userID: 20011
+2022/04/27	13:16:02	6cfc25df-a947-487b-98d1-6408bc15c3a1	inserting in bridge match with matchID: 500026, and userID: 20012
+2022/04/27	13:16:02	77c318d5-1e23-4715-be91-94d1ae4b69fa	inserting in bridge match with matchID: 500027, and userID: 20016
+2022/04/27	13:16:02	af2ca57c-237d-4148-8d59-d320720d8c03	inserting in bridge match with matchID: 500027, and userID: 20017
+2022/04/27	13:38:27	e6d370dd-c18b-4bf3-b391-e8dbff17cd4a	inserting in bridge match with matchID: 500028, and userID: 20003
+2022/04/27	13:38:27	fe60234c-8c43-42bd-a5c6-b3b39d8cabea	inserting in bridge match with matchID: 500028, and userID: 20004
+2022/04/27	13:38:27	9116bc6a-ccd6-4f5b-8f3e-6da568e7167b	inserting in bridge match with matchID: 500030, and userID: 20008
+2022/04/27	13:38:27	ed6e04e8-adae-4023-8c39-28844fa93be7	inserting in bridge match with matchID: 500029, and userID: 20015
+2022/04/27	13:38:27	9d4cbc94-7a3a-41d0-a879-58101f40640e	inserting in bridge match with matchID: 500029, and userID: 20016
+2022/04/27	13:38:27	bbc556b8-07e6-4588-89c9-2dd0e6197d75	inserting in bridge match with matchID: 500031, and userID: 20010
+2022/04/27	13:38:27	11cde14b-81f4-4088-ac22-52fb45a6aaae	inserting in bridge match with matchID: 500031, and userID: 20011
+2022/04/27	13:38:27	426c3bdc-544c-4d9b-bc19-0a6e0d253672	inserting in bridge match with matchID: 500030, and userID: 20007
+2022/04/27	13:40:25	9492fd5c-14a7-4893-97a0-ee520f1018be	inserting in bridge match with matchID: 500032, and userID: 20000
+2022/04/27	13:40:25	928d34c0-1f81-4650-bc58-6d2c38ab1e34	inserting in bridge match with matchID: 500032, and userID: 20001
+2022/04/27	13:40:25	00fbe0e0-be27-4dc5-adc5-cfdc939e19ee	inserting in bridge match with matchID: 500033, and userID: 20003
+2022/04/27	13:40:25	9ed5acaa-7fa9-4094-8b13-62f50f7cba02	inserting in bridge match with matchID: 500033, and userID: 20002
+2022/04/27	13:40:25	f095e759-f5c6-4d68-94ab-333f61ce9f66	inserting in bridge match with matchID: 500034, and userID: 20005
+2022/04/27	13:40:25	2ef8a908-a50f-4c92-9a88-ef5aaeacbcd8	inserting in bridge match with matchID: 500034, and userID: 20006
+2022/04/27	13:40:25	7d3f1a8f-3809-49c1-a38e-123d5a21dcee	inserting in bridge match with matchID: 500036, and userID: 20011
+2022/04/27	13:40:25	b1d9b1cb-7252-4f5e-a87e-e51f4150d8c5	inserting in bridge match with matchID: 500036, and userID: 20012
+2022/04/27	13:40:25	6efbb37a-5064-440c-9683-f280dbfd27ce	inserting in bridge match with matchID: 500035, and userID: 20016
+2022/04/27	13:40:25	98449b03-c944-4df0-bd52-886aa922fdc8	inserting in bridge match with matchID: 500035, and userID: 20017
+2022/04/27	13:54:06	3b1c8061-bdba-4d84-8b3a-0f7caee58f44	inserting in bridge match with matchID: 500037, and userID: 20003
+2022/04/27	13:54:06	2c801e73-0419-4fd6-93a9-5d2733dd4f1b	inserting in bridge match with matchID: 500037, and userID: 20004
+2022/04/27	13:54:06	e2c5529e-f0bd-41d7-9ae7-b846c0e96cbb	inserting in bridge match with matchID: 500039, and userID: 20010
+2022/04/27	13:54:06	a5c9780c-eede-4b4e-b5ac-b83ab60e4fc0	inserting in bridge match with matchID: 500039, and userID: 20011
+2022/04/27	13:54:06	56dc8e86-f23c-46f1-a338-0c7f553efbc3	inserting in bridge match with matchID: 500038, and userID: 20007
+2022/04/27	13:54:06	9637665d-486b-4f73-b652-037d6350c844	inserting in bridge match with matchID: 500038, and userID: 20008
+2022/04/27	13:54:06	a00fe3ee-c433-4ad5-b659-df984d0cb0a6	inserting in bridge match with matchID: 500040, and userID: 20015
+2022/04/27	13:54:06	9cc90b80-b672-45c5-a9b5-6d74d368f2bc	inserting in bridge match with matchID: 500040, and userID: 20016
+2022/04/27	16:41:40	97a3b457-9c6c-430c-8ff6-12026a44eb36	inserting in bridge match with matchID: 500041, and userID: 20002
+2022/04/27	16:41:40	570217ea-c620-4ed3-b55e-fce18de255f8	inserting in bridge match with matchID: 500042, and userID: 20009
+2022/04/27	16:41:40	2b5e58d9-5f7c-45e0-9dbc-b679ecbb430e	inserting in bridge match with matchID: 500041, and userID: 20007
+2022/04/27	16:41:40	1475421e-b5da-4c3b-be6b-11bd494df919	inserting in bridge match with matchID: 500042, and userID: 20008

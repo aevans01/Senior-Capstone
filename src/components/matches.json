@@ -1,0 +1,55 @@
+{
+  "upper": [
+    {
+      "id": 260006,
+      "name": "Semi Final - Match",
+      "nextMatchId": null,
+      "nextLooserMatchId": null,
+      "startTime": "2021-05-30",
+      "state": "DONE",
+      "participants": [
+        {
+          "id": "c016cb2a-fdd9-4c40-a81f-0cc6bdf4b9cc",
+          "resultText": "WON",
+          "isWinner": false,
+          "status": null,
+          "name": "giacomo123"
+        },
+        {
+          "id": "9ea9ce1a-4794-4553-856c-9a3620c0531b",
+          "resultText": "LOST",
+          "isWinner": true,
+          "status": null,
+          "name": "Ant"
+        }
+      ]
+    }
+  ],
+  "lower": [
+    {
+      "id": 260005,
+      "name": "Semi Final - Match",
+      "nextMatchId": 260006,
+      "nextLooserMatchId": null,
+      "tournamentRoundText": "4",
+      "startTime": "2021-05-30",
+      "state": "DONE",
+      "participants": [
+        {
+          "id": "c016cb2a-fdd9-4c40-a81f-0cc6bdf4b9cc",
+          "resultText": "WON",
+          "isWinner": false,
+          "status": null,
+          "name": "giacomo123"
+        },
+        {
+          "id": "9ea9ce1a-4794-4553-856c-9a3620c0531b",
+          "resultText": null,
+          "isWinner": true,
+          "status": null,
+          "name": "Ant"
+        }
+      ]
+    }
+  ]
+}

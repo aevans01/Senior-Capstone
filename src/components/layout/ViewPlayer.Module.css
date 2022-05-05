@@ -1,0 +1,74 @@
+.profile {
+  height: auto;
+  width: 20%;
+  border-radius: 100%;
+  margin-top: -16%;
+  margin-right: -10%;
+  float: right;
+}
+.profileRight {
+  width: 25%;
+  margin-top: -3%;
+  float: right;
+  margin-right: -10%;
+}
+.profileRight h5 {
+  margin-left: 20%;
+}
+.searchBar {
+  margin-left: 5%;
+}
+.division {
+  margin: auto;
+  text-align: center;
+  font-size: 1vw;
+}
+.profileName {
+  margin: auto;
+  text-align: center;
+  font-size: x-large;
+  margin-top: 1%;
+  font-size: 2vw;
+}
+.profileMain {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+  max-width: 80%;
+  border-radius: 100%;
+  margin: auto;
+}
+
+.stats {
+  margin: 0;
+  position: absolute;
+  top: 75%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  background-color: #3f87a6;
+  color: black;
+  font-size: 0.9vw;
+  width: 40%;
+}
+.stats:hover,
+.tournies:hover {
+  color: white;
+}
+.tournies {
+  background-color: #3f87a6;
+  color: black;
+  margin: 0;
+  position: absolute;
+  top: 88%;
+  left: 50%;
+  width: 25%;
+  font-size: 0.8vw;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+.viewPlayerContainer {
+  viewport-fit: inherit;
+}
